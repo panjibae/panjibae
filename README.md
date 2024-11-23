@@ -47,7 +47,7 @@ Here are some of the cool projects I've built with Rust:
 
 ## 🧑‍💻 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=panjibae&show_icons=true&theme=radical)
 
 ---
 
